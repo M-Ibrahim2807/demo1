@@ -239,7 +239,7 @@ function MenuPage({ navigate }: { navigate: (p: Page) => void }) {
   return (
     <main className="menu-page menu-experience">
       <section className="menu-banner">
-        <img src="/images/image.png" alt="El Alebrije food truck" />
+        <img src="https://images.squarespace-cdn.com/content/v1/600605996f0b7e66aaa85e21/7cf03fac-3b0c-4acb-bb59-9d867a8d8b05/unnamed+%2817%29.jpg" alt="El Alebrije food truck" />
         <div className="menu-banner-overlay" />
         <div className="menu-banner-copy">
           <p className="eyebrow eyebrow-light">El Alebrije · Oaxacan Streetfood</p>
